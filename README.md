@@ -7,7 +7,7 @@ See the [live demo].
 
 [Froala Editor]: https://www.froala.com/wysiwyg-editor
 [React]: https://facebook.github.io/react/
-[live demo]: https://devalien.github.io/react-froala-editor/
+[live demo]: https://zeyton-co.github.io/react-froala-editor/
 [npm-badge]: https://img.shields.io/npm/v/react-froala-editor.svg?style=flat-square
 [npm]: https://www.npmjs.org/package/react-froala-editor
 
